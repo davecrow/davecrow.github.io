@@ -1,14 +1,30 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow);
 
 body {
+  background: #f7f7f7;
+  border-top: 2px solid #666;
   color: #444;
   font-family: 'PT Sans', Helvetica, Arial, sans-serif;
   line-height: 1.5em;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'PT Sans Narrow', sans-serif;
   line-height: 1.25em;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none; 
+}
+
+a:hover {
+  color: #2980b9;
+}
+
+footer {
+  color: #ecf0f1;
 }
 
 .wrapper {
@@ -17,6 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .titleHeader {
+  border-bottom: 1px dotted #666;
   font-size: 2.75em;
   font-weight: normal;
   text-transform: uppercase;
