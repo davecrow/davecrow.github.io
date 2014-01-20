@@ -34,6 +34,7 @@ footer {
 
 .wrapper {
   margin: 0 auto;
+  max-width: 500px;
   width: 90%;
 }
 
