@@ -30,6 +30,11 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
+
+          <div class="contact">
+            {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}">{% include svg-icons/email.html %}</a>{% endif %}
+            {% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
+          </div>  
           
           <!-- <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
