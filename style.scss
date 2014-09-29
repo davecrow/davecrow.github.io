@@ -111,8 +111,8 @@ img {
 }
 
 .date {
-  font-style: italic;
   color: $gray;
+  font-size: .85em;
 }
 
 // Specify the color of the selection
@@ -264,6 +264,11 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+.post-title {
+  line-height: 1.5;
+  margin-bottom: 0;
 }
 
 .wrapper-footer {
