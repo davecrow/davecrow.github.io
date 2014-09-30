@@ -309,7 +309,37 @@ a.pagination-button:hover {
 
 footer {
   padding: 20px 0;
+  // text-align: center;
+}
+
+.social {
+  float: right;
+
+  @include mobile {
+    float: none;
+    text-align: center;
+  }
+}
+
+.bio {
+  font-size: .75em;
+  margin-top: 0;
+  width: 40%;
+
+  @include mobile {
+    margin: 2em auto;
+    width: 80%;
+  }
+}
+
+.fine-print {
+  color: lighten($gray, 35%);
+  font-size: .55em;
+  letter-spacing: 1px;
+  margin: 25px 0 0;
   text-align: center;
+  text-shadow: 1px 1px #fff;
+  text-transform: uppercase;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
