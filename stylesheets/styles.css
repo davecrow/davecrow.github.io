@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow|Lato:100);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow);
 
 /* apply a natural box layout model to all elements */
 *, *:before, *:after {
@@ -15,7 +15,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   line-height: 1.25em;
 }
 
@@ -40,7 +40,7 @@ footer {
 
 .titleHeader {
   border-bottom: 1px solid #ccc;
-  font-size: 3.5em;
+  font-size: 2.75em;
   font-weight: normal;
   text-transform: uppercase;
 }
