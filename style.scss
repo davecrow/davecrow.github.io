@@ -31,9 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: normal;
   
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -186,13 +186,13 @@ img {
 }
 
 .site-name {
-  margin: 0;
-  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue; 
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 2em;
+  line-height: 1.2;
+  letter-spacing: -1px;
+  margin: 0;
+  text-transform: uppercase;
 }
 
 .site-description {
@@ -267,8 +267,17 @@ nav, .contact {
 }
 
 .post-title {
-  line-height: 1.5;
+  font-size: 2.9em;
+  font-style: italic;
+  letter-spacing: -3px;
+  line-height: 1.35;
   margin-bottom: 0;
+
+  @include mobile {
+    font-size: 2.2em;
+    letter-spacing: -2px;
+    line-height: 1.15;
+  }
 }
 
 .pagination {
