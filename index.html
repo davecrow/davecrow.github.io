@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>HELLO DAVE CROW</title>
 
+<<<<<<< HEAD
     <link rel="stylesheet" href="stylesheets/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -35,3 +36,46 @@
     
   </body>
 </html>
+=======
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">    
+      
+      <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+      
+    </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="pagination-button page-nav" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span class="pagination-button page-nav inactive">&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="pagination-button page-number inactive">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a class="pagination-button page-number" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a class="pagination-button page-number" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pagination-button page-nav" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span class="pagination-button page-nav inactive">Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+>>>>>>> jekyll-blog
