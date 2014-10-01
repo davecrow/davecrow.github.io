@@ -345,6 +345,14 @@ footer {
   }
 }
 
+.recommended-reading {
+  color: lighten($gray, 30%);
+  border-top: 1px solid lighten($gray, 40%);
+  font-size: .8em;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
 .fine-print {
   color: lighten($gray, 35%);
   font-size: .55em;
