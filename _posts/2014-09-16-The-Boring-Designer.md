@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Boring Designer
-published: false
+published: true
 ---
 
 > The boring designer realizes that the glory isn’t in putting their personal stamp on everything they touch. In fact, most of the time, it’s about leaving no trace of themselves. The boring designer loves consistency. The boring designer loves a style guide. They love not having to worry about choosing the wrong blue or accidentally introducing a new pattern.
