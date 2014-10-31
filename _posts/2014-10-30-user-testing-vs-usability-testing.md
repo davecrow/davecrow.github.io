@@ -9,7 +9,7 @@ tags: []
 
 User testing. Focus group. Usability testing.
 
-I often see the [terms get used interchangeably](https://twitter.com/DavidLCrow/status/528013215351857152), but there’s an important difference.
+I often see the [terms get used interchangeably](https://twitter.com/DavidLCrow/status/528008693132980225), but there’s an important difference.
 
 I’m a big proponent of usability testing. Watching people use your product is the best way to improve. But it’s important to understand that the point is to make sure a user can accomplish a task.
 
