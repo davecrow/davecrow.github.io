@@ -11,7 +11,7 @@ User testing. Focus group. Usability testing.
 
 I often see the [terms get used interchangeably](https://twitter.com/DavidLCrow/status/528008693132980225), but there’s an important difference.
 
-I’m a big proponent of usability testing. Watching people use your product is the best way to improve. But it’s important to understand that the point is to make sure a user can accomplish a task.
+I’m a big proponent of usability testing. Watching people use your product is the best way to improve. But it’s important to understand that the point is to make sure a user can accomplish a task, not to find out if they like the product. When running a usability test, I always tell people, "We're not testing you. We're testing the app." (A line I learned from [Steve Krug's work.](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758))
 
 I heard an analogy  that usability testing is like watching people walk through a doorway to make sure they don’t trip. It’s not asking people if they like the doorway.
 
