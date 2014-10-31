@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-User testing. Focus group. Usability testing.
+User test. Focus group. Usability test.
 
 I often see the [terms get used interchangeably](https://twitter.com/DavidLCrow/status/528008693132980225), but there’s an important difference.
 
