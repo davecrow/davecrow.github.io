@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Testing vs Usability Testing
+title: User Test vs Usability Test
 published: true
 categories: []
 tags: []
