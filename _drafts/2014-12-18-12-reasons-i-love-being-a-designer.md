@@ -6,16 +6,18 @@ categories: []
 tags: []
 ---
 
+I recently presented at DRAFT - the designer [Meetup group](http://www.meetup.com/DRAFT-design/) I help organize. Since it's the holiday season, I decided to do a kind of reflective talk on 12 reasons I love being a designer.
+
 ## #12 - It’s like being an artist, but you actually make money.
 I used to have this artistic, “punk rock” ethos that said making money didn’t matter. But now I’m 32 and a dad, and making money doesn’t seem like such a bad idea. I have friends who are incredibly talented artists or musicians, but none of them are really making a living at it. Even the ones who have managed to be able to do it full time are scraping by. Design lets me have a creative job without having to be a starving artist.
 
-## #11 - Designers are interesting people
+## #11 - Designers are interesting people.
 Generally I find that people in the design community are very interesting. You have a mix of musicians, artists, photographers and more that found their way into design. You meet people who have worked on really fascinating stuff. 
 
-## #10 - Design has made me successful at every job I’ve ever had
+## #10 - Design has made me more successful at every job I’ve ever had.
 I’ve worked design into almost every job I’ve ever had. In college I worked at The UPS Store (called Mailboxes, Etc back then) and the owner asked me to make some signs. All I had was a PC with MS Publisher on it, but the designer in me couldn’t just throw words on a page in Times New Roman and call it a day. It was fun for me to try and match corporate branding so you couldn’t tell my signs from the corporate ones. And my boss took notice. Pretty soon I was the only employee asked to make signs. Even after I left that job he called me up a few times to design things. It was my first experience in freelance work.
 
-## #9 - The combination of art + technology
+## #9 - The combination of art + technology.
 In high school I knew I wanted to do something on computers, but I didn’t even really know that the design field even existed. So I took a CISCO computer networking class…and kind of hated it. Then, just to fill in an hour my senior year, I took a graphic design class and fell in love. I was never a great art student, but Photoshop allowed me to create things that looked good. Obviously it takes a blend of art and technology to make websites and software, but that blend exists in print design as well. There’s a lot of tech in the printing process, and you can create some amazing stuff if you understand how to take advantage of it.
 
 ## #8 - Weekends & holidays with my family
